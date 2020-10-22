@@ -39,7 +39,5 @@ class Window(Tk):
         self.rad3.grid(column=0, row=2, sticky=W, columnspan=3)
 
 
-
-
 window = Window()
 window.mainloop()
